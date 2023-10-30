@@ -392,7 +392,8 @@ var user= {
                                 <p>Punk Für Sie</p>
                             </div>
                         </media>`,
-            Comentarios: ""
+            Comentarios: "",
+            Editado: [ 'type= "oC"; edHistory= {"Editado el 31 de Agosto de 2022 a las 3:38 pm": "https://raw.githubusercontent.com/liril-co/A.K.A._Dizzy/a2eb59e9a05b3c3662a4b0a9d8b033595b93840c/pos/r1WjYcRQhw.html", "Editado el 10 de Febrero de 2022 a las 10:10 pm": "https://raw.githubusercontent.com/liril-co/A.K.A._Dizzy/b1aa57bce534ccdc8561aa99b811bff2d2fe5d27/pos/r1WjYcRQhw.html", "Editado el 15 de Junio de 2021 a las 2:5 am": "https://raw.githubusercontent.com/liril-co/A.K.A._Dizzy/239761aec1d538f06010fee7525156d58c858fa2/pos/r1WjYcRQhw.html", "10 de Marzo de 2021 a las 8:38 am": "https://raw.githubusercontent.com/liril-co/A.K.A._Dizzy/cdf971cd71107587e0abafb43091140d2b1606d0/pos/r1WjYcRQhw.html"}', "Editado el 31 de Agosto de 2022 a las 3:38 pm"]
         },
        "/A.K.A._Dizzy/img/m88IB35sDo": {
             type: "repostMult_img",
