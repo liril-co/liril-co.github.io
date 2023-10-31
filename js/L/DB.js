@@ -563,7 +563,7 @@ var user= {
                                     <span class="Responder"></span>
                                 </div>
                                 <span class="Respuestas"></span>
-                            </div>`//*ed
+                            </div>`
         },
         "/L/vid/68mz7x5K27": {
             type: "vid",
