@@ -5135,7 +5135,7 @@ ee= function(){
     title(); 
 
     $("#information #historia li").on("click", function(){ 
-        FileToRequest= "https://raw.githubusercontent.com/liril-co/liril-co.github.io/" + $(this).attr("sha") + "/" + username + "/raw/p/" + pId + "/" + getToBusiness((window.location.pathname + window.location.hash).replace("#infor", "").replace("/#/", "/p/")); 
+        FileToRequest= "https://raw.githubusercontent.com/liril-co/" + username+'/'+ $(this).attr("sha") + "/raw/p/" + pId + "/" + getToBusiness((window.location.pathname + window.location.hash).replace("#infor", "").replace("/#/", "/p/")); 
         $("#information #historia li.selected").removeClass("selected"); 
         $(this).addClass("selected"); 
         if($("#Archivo").hasClass("selected")){ 
