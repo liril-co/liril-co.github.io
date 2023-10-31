@@ -1192,7 +1192,8 @@ Planner: @claudiajimenezevent
                                 </text>
                             </div>
                         </div>`,
-            Comentarios: ""//*ed
+            Comentarios: "",
+            Editado: [ 'type= "oC"; edHistory= {"Editado el 10 de Julio de 2022 a las 8:55 pm": "https://raw.githubusercontent.com/liril-co/A.K.A._Dizzy/a759ceb41c58cdb616bf7851a307e7595d6568a2/pos/hptI4FO7Tv.html", "3 de Julio de 2022 a las 0:52 am": "https://raw.githubusercontent.com/liril-co/A.K.A._Dizzy/cdf971cd71107587e0abafb43091140d2b1606d0/pos/hptI4FO7Tv.html"}', "Editado el 10 de Julio de 2022 a las 8:55 pm"]
         },
         "/truck/pos/CMgd0lPQfl", {
             user: _useRs["truck"],
