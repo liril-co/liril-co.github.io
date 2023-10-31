@@ -52,7 +52,8 @@ var user= {
             title: ``,
             description: ``,
              contents: {carrContents: ["BboagO5svp_tn.jpg", "Zl4zRgmqy9_tn.jpg", "gEUK0thaKp_tn.jpg", "wabDNvXanj_tn.jpg", "rKn407mzhB_tn.jpg"]},
-            Comentarios: ""//*ed
+            Comentarios: "",
+            Editado: [ 'type= "mult_img"; edHistory= {"Editado el 26 de Marzo de 2022 a las 3:34 pm": "https://raw.githubusercontent.com/liril-co/AuraCardonaC/ec9b4a30e4c0c400d0f2fdcbb5fddc719c2dae43/img/BboagO5svp.html", "2 de Marzo de 2021 a las 10:27 pm": "https://raw.githubusercontent.com/liril-co/AuraCardonaC/c7a234e133f047eda31462c41e962eecff6c7b12/img/BboagO5svp.html"}', "Editado el 26 de Marzo de 2022 a las 3:34 pm"]
         },
         "/AuraCardonaC/img/7D0sWwseW9": {
             type: "mult_img",
@@ -116,7 +117,8 @@ var user= {
             title: `<a class="target" href="/A.K.A._Dizzy/" title="<div class='tool'><input class='knob button' data-width='102' data-height='102' data-fgColor='#2ecc71' data-bgColor='rgba(0,0,0,0)' data-displayInput=false data-thickness='.08' readonly value='100'><img src='/resources/images/A.K.A._Dizzy/1AzV0qwVwn_tn.gif'><div class='datos'><ul class='actions'><li class='chatear' title='Chatear'>C</li><li class='agregar' title='Agregar'>A</li><li class='juzgar' title='Juzgar'>J</li></ul><p class='username' title= 'Luis Eduardo Gallego García'>Luis Eduardo Gallego García</p><p class='rol'>CEO <b style='color:#fff;'>+100</b></p></div><div class='insignia' style='top: 39px;' title='EP (Planifique)'> </div></div>">A.K.A._Dizzy</a>, 😍🤤`,
             description: ``,
              contents: {carrContents: ["HYk7c0QuCD_tn.jpg", "2BYZMqibxZ_tn.jpg", "ppETlVeyfD_tn.jpg", "wJJkTuyzFu_tn.jpg"]},
-            Comentarios: ""//*ed
+            Comentarios: "",
+            Editado: [ 'type= "mult_img"; edHistory= {"Editado el 26 de Marzo de 2022 a las 8:12 pm": "https://raw.githubusercontent.com/liril-co/AuraCardonaC/c5cec58569b9730d297c74c1d6f7c00430bee67d/img/HYk7c0QuCD.html", "27 de Febrero de 2022 a las 2:50 pm": "https://raw.githubusercontent.com/liril-co/AuraCardonaC/c7a234e133f047eda31462c41e962eecff6c7b12/img/HYk7c0QuCD.html"}', "Editado el 26 de Marzo de 2022 a las 8:12 pm"]
         },
         "/AuraCardonaC/img/44Cpl8Gig5": {
             type: "img",

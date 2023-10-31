@@ -1406,7 +1406,7 @@ Planner: @claudiajimenezevent
                                     <span class="Responder"></span>
                                 </div>
                                 <span class="Respuestas"></span>
-                            </div>`,
+                            </div>`,//*
         },
         "/L/img/CT8HFtH57Y", {
             user: {
@@ -1493,7 +1493,7 @@ Planner: @claudiajimenezevent
             title: ``,
             description: ``,
              contents: {carrContents: ["m88IB35sDo.jpg", "HQ90sglfFm.jpg"]},
-            Comentarios: ""//*ed
+            Comentarios: ""
         },
         "/MeganFox/img/ihsJ6mzXTl", {
             user: _useRs["MeganFox"],

@@ -216,7 +216,7 @@ var user= {
             title: ``,
             description: ``,
              contents: {carrContents: ["m88IB35sDo_tn.jpg", "HQ90sglfFm_tn.jpg"]},
-            Comentarios: ""//*ed
+            Comentarios: ""
         },
         "/A.K.A._Dizzy/img/1AzV0qwVwn": {
             type: "img",
