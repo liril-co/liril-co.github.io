@@ -723,7 +723,7 @@ if( $( this ).is( ".editing" ) )return
     
     setTimeout(function(){i.target.style.top= 0; ok= false; 
     }, 1); 
-    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, ""));oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
+    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, "")) + "&per_page=100";oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
     }, 101); 
 
     uRL= ""; 
@@ -1714,7 +1714,7 @@ $(LEB).css({"border-bottom": ""})
     
 setTimeout(function(){i.target.style.top= 0; ok= false; 
 }, 1); 
-setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, ""));oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
+setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, "")) + "&per_page=100";oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
 }, 101); 
 
 uRL= ""; 
@@ -2692,7 +2692,7 @@ $(".editing").next().on("click", function(i, tr){if( $( this ).is( ".editing" ) 
     
     setTimeout(function(){i.target.style.top= 0; ok= false; 
     }, 1); 
-    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, ""));oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
+    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, "")) + "&per_page=100";oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
     }, 101); 
 
     uRL= ""; 
@@ -2998,7 +2998,7 @@ $(".editing").prev().on("click", function(i, tr){if( $( this ).is( ".editing" ) 
     
     setTimeout(function(){i.target.style.top= 0; ok= false; 
     }, 1); 
-    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, ""));oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
+    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, "")) + "&per_page=100";oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
     }, 101); 
 
     uRL= ""; 
@@ -3348,7 +3348,7 @@ if( $( this ).is( ".editing" ) )return
     
     setTimeout(function(){i.target.style.top= 0; ok= false; 
     }, 1); 
-    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, ""));oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
+    setTimeout(function(){!$("#file_expl #information_cont").hasClass("visible")? (function(){$("#file_expl #information_cont").toggleClass("visible"); $("#file_expl #information_cont #information").html("<i>Infor</i><button class='Historia'>Historia</button>"); $(".Historia").on("click", function(){var oReq= new XMLHttpRequest();oReq.addEventListener("load", ee);oReq.open("GET", "https://api.github.com/repos/liril-co/"+username+"/commits?path=" + FileToRequest.replace(`/${username}`, "")) + "&per_page=100";oReq.setRequestHeader('Authorization', "token " + token);crawl();oReq.send();}); })(): 666; ok= true; 
     }, 101); 
 
     uRL= ""; 
