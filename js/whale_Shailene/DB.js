@@ -35,7 +35,7 @@ var user= {
         insignias: ``
     },
     situation: {
-        "###": `<div id="sión" style="border: 1px dotted #636363; width: 100%; height: 41px; position: relative; cursor: s-resize;" onmousemove='L= function(e){(e.movementX >= 0 &amp;&amp; e.movementY >= 0)? ((e.movementX / e.movementY) < 0.5)? (function(){e.target.style.cursor= "s-resize"})(): ((e.movementX / e.movementY) > 2)? (function(){e.target.style.cursor= "e-resize"})(): (function(){e.target.style.cursor= "se-resize"})(): (e.movementX < 0 &amp;&amp; e.movementY >= 0)? ((e.movementX / e.movementY) > -0.5)? (function(){e.target.style.cursor= "s-resize"})(): ((e.movementX / e.movementY) < -2)? (function(){e.target.style.cursor= "w-resize"})(): (function(){e.target.style.cursor= "sw-resize"})(): (e.movementX >= 0 &amp;&amp; e.movementY < 0)? ((e.movementX / e.movementY) > -0.5)? (function(){e.target.style.cursor= "n-resize"})(): ((e.movementX / e.movementY) < -2)? (function(){e.target.style.cursor= "e-resize"})(): (function(){e.target.style.cursor= "ne-resize"})(): (e.movementX < 0 &amp;&amp; e.movementY < 0)? ((e.movementX / e.movementY) < 0.5)? (function(){e.target.style.cursor= "n-resize"})(): ((e.movementX / e.movementY) > 2)? (function(){e.target.style.cursor= "w-resize"})(): (function(){e.target.style.cursor= "nw-resize"})(): 1}; L(event); '></div>`
+        "Comprometida con": `#Aaron Charles Rodgers`
     },
     ties: [
     ],
