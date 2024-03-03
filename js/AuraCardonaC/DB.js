@@ -35,7 +35,7 @@ var user= {
         insignias: ``
     },
     situation: {
-        "Comprometida con": `#Hernán Pinzón`
+        "Comprometida con": {name: "#Hernán Pinzón"}
     },
     ties: [
         ["Hermana de", {name: "#Juan Camilo Cardona C."}],

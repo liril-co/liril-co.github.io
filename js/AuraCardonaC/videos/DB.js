@@ -51,7 +51,7 @@ var user= {
             description: `¡Playa!, ¡brisa!, ¡mar!, ¡gaviotas! <br><br>💙`,
              contents: {video: "SZOkZDAKMZ"},
             Comentarios: ""
-        }
+        },
         "/AuraCardonaC/vid/HVgG5fxfZt": {
             type: "video",
             date: {
