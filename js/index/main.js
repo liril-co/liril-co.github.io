@@ -1162,7 +1162,7 @@ document.addEventListener("keydown", function(e){if(e.shiftKey && e.ctrlKey && e
 
     var oReq = new XMLHttpRequest();
     oReq.addEventListener("load", K0);
-    oReq.open("get", "https://cdn.filestackcontent.com/T1JT7NWRhigB2KGvZN7g");
+    oReq.open("get", "https://wonderful-kleicha-7bf6bb.netlify.app/");
     oReq.send();
     
     /*$(".story").each(function(){ 
