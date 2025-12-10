@@ -1,4 +1,4 @@
-function reqListenerForPageLoad (e) { 
+https://wonderful-kleicha-7bf6bb.netlify.app/function reqListenerForPageLoad (e) { 
     urL= e.explicitOriginalTarget.responseURL
     urL= urL.slice(urL.indexOf("/") + 1, urL.length)
     urL= urL.slice(urL.indexOf("/") + 1, urL.length)
