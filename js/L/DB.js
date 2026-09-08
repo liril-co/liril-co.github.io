@@ -1,5 +1,5 @@
 export function _user(){
-var user= {
+var user= {nov
     username: "L",
     users_name: "Laura Escobar Bonnett",
     profilePic: {
@@ -35,20 +35,6 @@ var user= {
        insignias: ``
     },
     situation: {
-        "Novia de": {username: "A.K.A._Dizzy", name: "Luis Eduardo Gallego García", tool:   `<div class='tool'>
-                                                                                                <input class='knob button' data-width='102' data-height='102' data-fgColor='#2ecc71' data-bgColor='rgba(0,0,0,0)' data-displayInput=false data-thickness='.08' readonly value='100'>
-                                                                                                <img src='/resources/images/A.K.A._Dizzy/4uHf7tgk8C_tn.jpg'>
-                                                                                                <div class='datos'>
-                                                                                                    <ul class='actions'>
-                                                                                                        <li class='chatear' title='Chatear'>C</li>
-                                                                                                        <li class='agregar' title='Agregar'>A</li>
-                                                                                                        <li class='juzgar' title='Juzgar'>J</li>
-                                                                                                    </ul>                  
-                                                                                                    <p class='username' title= 'Luis Eduardo Gallego García'>Luis Eduardo Gallego García</p>
-                                                                                                    <p class='rol'>CEO <b style='color:#fff;'>+100</b></p>
-                                                                                                </div>
-                                                                                                <div class='insignia' style='top: 39px;' title='EP (Planifique)'> </div>
-                                                                                            </div>`}
     },
     ties: [
     ],
