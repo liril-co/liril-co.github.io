@@ -36,25 +36,12 @@ export function _user(){
             insignias: `<div title="EP (Planifique)" class="line" style="top: 72%;"></div>`
         },
         situation: {
-              "Novio de": {username: "L", name: "Laura Escobar Bonnett", tool: `<div class='tool'>
-                                                                                    <input class='knob button' data-width='102' data-height='102' data-fgColor='#2ecc71' data-bgColor='rgba(0,0,0,0)' data-displayInput=false data-thickness='.08' readonly value='71'>
-                                                                                    <img src='/resources/images/L/OGnpwD3jys_tn.jpg'>
-                                                                                    <div class='datos'>
-                                                                                        <ul class='actions'>
-                                                                                            <li class='chatear' title='Chatear'>C</li>
-                                                                                            <li class='agregar' title='Agregar'>A</li>
-                                                                                            <li class='juzgar' title='Juzgar'>J</li>
-                                                                                                         </ul>
-                                                                                        <p class='username' title= 'Laura Escobar Bonnett'>Laura Escobar Bonnett</p>
-                                                                                        <p class='rol'>Diseñadora <b style='color:#fff;'>+71</b></p>
-                                                                                    </div>
-                                                                                </div>`}
+              "Novio de": {name: "#Camelott Hernández Roa"}
         },
         ties: [
             ["Hijo de", {name: "#Amparo Del Rosario García Arias"}],
             ["Hijo de", {name: "#Luis Fernando Gallego Echeverri"}],
             ["Hermanito de", {name: "#María Isabel Gallego García"}],
-            ["Cuñado de", {name: "#Robinson Pérez López"}],
             ["Hermano de", {name: "#Miguel Ángel Gallego García"}],
             ["Tío de", {name: "#Ashley Isabel Marín Gallego"}],
             ["Tío de", {name: "#Johan Matthew Pérez Gallego"}],
